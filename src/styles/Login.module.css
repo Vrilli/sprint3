@@ -1,0 +1,28 @@
+
+#formBasicName{
+    width: 20vw;
+    top: 20px;
+}
+
+#formBasicEmail{
+    width: 20vw;
+}
+
+#formBasicPassword{
+    width: 20vw;
+}
+
+#formBasicRepitPassword{
+    width: 20vw;
+}
+
+Form{
+   margin-left: 40%;
+   margin-right: 50%;
+   margin-top: 20%;
+   border-radius: 30%;
+   background-color: rgb(71, 48, 73);
+   width: 30%;
+   height: 5000%;
+   
+}
